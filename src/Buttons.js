@@ -20,7 +20,7 @@ export function Buttons() {
       <div className="card-container d-flex justify-content-between mx-4">
         {/* left cards start */}
         <div className="card-container left-container d-flex flex-column gap-5">
-          <div className="top-left card">
+          <div className="top-left card circle-button">
             <div className="card-header text-primary fw-bold">
               Circle Buttons
             </div>

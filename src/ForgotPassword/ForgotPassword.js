@@ -6,7 +6,7 @@ export function ForgotPasswordPage() {
     <div className="forgotPassword-container container">
       <div className="row my-5 mx-auto">
         <div className="col">
-          <div className="card mx-auto">
+          <div className="card forgot-password-card mx-auto">
             <div className="row">
               <div className="img-section col-lg-5">
                 <img

@@ -41,7 +41,7 @@ function BorderCards({background}){
     let classNames=`card mb-4 py-3 px-3 ${background}`
     return(
         <div className={classNames}>
-        <div clssName="card-body">
+        <div className="card-body">
             {`.${background}`}
         </div>
         </div>

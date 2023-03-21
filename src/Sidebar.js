@@ -24,7 +24,7 @@ export function SideBar() {
 
   return (
    
-      <nav className="navbar navbar-expand-lg bg-primary d-flex align-items-start">
+      <nav className="navbar navbar-expand-lg d-flex align-items-start">
       <div className="container-fluid">
         <button
           className="navbar-toggler"
